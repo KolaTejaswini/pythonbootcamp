@@ -1,0 +1,9 @@
+inp="HelloWorld"
+print(inp.isalpha())
+print(inp.isnumeric())
+print(inp.isalnum())
+print(inp.islower())
+print(inp.isupper())
+print(inp.istitle())
+print(inp.isnumeric())
+print(inp.isdigit())
